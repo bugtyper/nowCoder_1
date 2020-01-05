@@ -7,5 +7,6 @@ public class nowCoder {
 
         System.out.println("hello nowCoer2222!!!");
         System.out.println();
+        System.out.println();
     }
 }
