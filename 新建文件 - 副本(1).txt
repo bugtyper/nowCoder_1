@@ -1,0 +1,11 @@
+1：如何Debian编包
+
+2：PPA传包
+
+3：weather天气项目运行不能显示天气原因
+
+4：bug号（内部管理平台https://doc.ubuntukylin.com/login不能登录）
+
+5：版本使用控制工具
+
+6：Qt调试
